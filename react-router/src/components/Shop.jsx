@@ -11,6 +11,7 @@ const Shop = () => {
   }
 
   function backHandler() {
+    // move to back of page
     navigate(-1);
   }
 
